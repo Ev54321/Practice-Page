@@ -1,0 +1,13 @@
+main{
+    background-color: beige;
+}
+nav {
+    background-color: #1d4179;
+    margin: 0;
+}
+nav ul {
+    margin: 0;
+    display: flex;
+    list-style-type: none;
+    border-bottom: 1px;
+}
